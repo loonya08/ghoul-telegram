@@ -5,7 +5,7 @@
 
 ____
 ## Настройка ghoul-telegram
-Авторизируетесь [сюда](https://my.telegram.org/) нажимаете `API development tools`, заполняете формы и получаете данные api_id и api_hash
+Авторизируетесь [тут](https://my.telegram.org/) нажимаете `API development tools`, заполняете формы и получаете данные api_id и api_hash
 
 Открываете файл config.py и заполняете api_id и api_hash
 
