@@ -1,0 +1,15 @@
+antlr4-python3-runtime==4.9.2
+asn1crypto==1.4.0
+bit==0.7.2
+certifi==2020.12.5
+cffi==1.14.5
+chardet==4.0.0
+coincurve==15.0.0
+idna==2.10
+pyaes==1.6.1
+pyasn1==0.4.8
+pycparser==2.20
+requests==2.25.1
+rsa==4.7.2
+Telethon==1.21.1
+urllib3==1.26.4
